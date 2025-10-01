@@ -92,6 +92,20 @@ The author(s) are not liable for any misuse, academic consequences, or disciplin
 You should comply with all applicable school and government rules.
 
 --- 
+Beta Software Warning
+
+This project is currently in BETA.
+That means:
+
+- You may encounter bugs, crashes, or strange behavior.
+
+- Features may change, break, or be removed at any time.
+
+- Some books or metadata may not process correctly.
+
+- Do not rely on this software for production or critical use.
+
+Feedback, issues, and bug reports are welcome. Please open an Issue or Pull Request to help improve the project.
 
 
 
