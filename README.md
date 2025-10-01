@@ -6,7 +6,7 @@
 
 🔎 What is AINS?
 ---
-AINS is a digital platform created by the Ministry of Education Malaysia for students to digitally record and manage their reading activities within the NILAM program
+AINS is a digital platform created by the Ministry of Education Malaysia for students to digitally record and manage their reading activities within the NILAM program.Thus to complete a book,it required the infomation below:
 
 - Title
 
