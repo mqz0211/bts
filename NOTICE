@@ -1,0 +1,12 @@
+BTS — Beat The System
+
+This product includes components licensed under the Apache License, Version 2.0.
+
+No endorsement:
+This software automates tasks that may interact with third-party educational systems.
+The authors do not endorse misuse of third-party systems. Use responsibly.
+
+Third-party attributions:
+- OpenLibrary API (openlibrary.org) — used for book metadata.
+- OpenAI API — used for summary/lesson generation (when enabled).
+
