@@ -6,7 +6,7 @@
 
 🔎 What is AINS?
 ---
-AINS (Advanced Integrated NILAM System) is the platform used in Malaysian schools to track student reading habits. Students must log books they’ve read, including:
+AINS is a digital platform created by the Ministry of Education Malaysia for students to digitally record and manage their reading activities within the NILAM program
 
 - Title
 
