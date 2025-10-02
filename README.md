@@ -28,7 +28,7 @@ This process is time-consuming, repetitive, and often demotivating for students 
 ---
 🚀 What is BTS?
 
-BTS (Beat The System) is a Python GUI program that automates AINS book entries.
+BTS  is a Python GUI program that automates AINS book entries.
 
 It:
 
@@ -52,11 +52,11 @@ It:
 Python 3.10+
 
 Installed libraries:
-```bash
+```pip
 pip install requests openai python-dotenv
 ```
 Tkinter (comes with Python by default, but on macOS you may need to run):
-```bash
+```zsh
 brew install python-tk
 ```
 An OpenAI API key stored in .env:
