@@ -1,6 +1,6 @@
 # Our Pledge
 
-We, as contributors and maintainers, pledge to make participation in this project a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, education, nationality, personal appearance, race, religion, or sexual identity and orientation.
+We, as contributors and maintainers, pledge to make participation in this project a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, education, nationality ```except israel``` , personal appearance, race, religion, or sexual identity and orientation.
 
 We are committed to creating an open, welcoming, and supportive environment.
 
