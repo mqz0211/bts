@@ -4,7 +4,7 @@
 
 
 
-🔎 What is AINS?
+ What is AINS?
 ---
 AINS is a digital platform created by the Ministry of Education Malaysia for students to digitally record and manage their reading activities within the NILAM program.Thus to complete a book,it required the infomation below:
 
@@ -26,28 +26,28 @@ AINS is a digital platform created by the Ministry of Education Malaysia for stu
 
 This process is time-consuming, repetitive, and often demotivating for students who want to focus on real learning rather than bureaucratic logging.
 ---
-🚀 What is BTS?
+ What is BTS?
 
 BTS  is a Python GUI program that automates AINS book entries.
 
 It:
 
-✅ Finds books automatically using OpenLibrary API (English + Malay titles).
+ Finds books automatically using OpenLibrary API (English + Malay titles).
 
-✅ If publisher/IMEI data is missing, fills gaps using OpenAI API.
+ If publisher/IMEI data is missing, fills gaps using OpenAI API.
 
-✅ Generates a random-length summary (10–18 words).
+ Generates a random-length summary (10–18 words).
 
-✅ Generates a lesson statement (5–8 words).
+ Generates a lesson statement (5–8 words).
 
-✅ Assigns a random star rating (3–5).
+ Assigns a random star rating (3–5).
 
-✅ Supports batch generation (up to 30 books per day).
+Supports batch generation (up to 30 books per day).
 
-✅ GUI button interface → user just clicks once, the program handles everything.
+ GUI button interface → user just clicks once, the program handles everything.
 
 ---
-⚙️ Requirements
+ Requirements
 
 Python 3.10+
 
@@ -77,7 +77,7 @@ OPENAI_API_KEY=sk-xxxxxx
   * Show results ready for copy-paste into AINS.
 
 ---
-**⚠️ Disclaimer**
+** Disclaimer**
 
 This project is not affiliated with or endorsed by AINS, NILAM, or the Ministry of Education Malaysia.
 
